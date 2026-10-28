@@ -31,6 +31,10 @@ AI 엔지니어를 목표로 하고 있습니다.
 `Python` `Tkinter` `OpenCV` `YOLO12` · 2026.07–08  
 영상 → YOLO 데이터셋 자동·수동 라벨링, 검수 모드. 위 두 모델의 데이터를 이 도구로 제작.
 
+### [CCTV 흉기 탐지 VLM 2차 판독](vlm-weapon-verification/)
+`Python` `Ollama` `Gemma 4 31B` `YOLO` · 2026.08  
+사내 VLM으로 흉기 알람 재확인·등급 부여. 칼을 놓치던 원인을 저장 단계에서 찾아 원본 녹화로 6/6 회수.
+
 ## 학교 (2025)
 
 ### [소아과 사전 문진 AI 에이전트](pediatric-previsit-agent/)
