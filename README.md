@@ -39,7 +39,7 @@ AI 엔지니어를 목표로 하고 있습니다.
 
 ### [소아과 사전 문진 AI 에이전트](pediatric-previsit-agent/)
 `LangChain` `GPT-4o-mini` `ChromaDB` `Streamlit` · 2025.10–11  
-나이별 문진, 답변별 LLM 안내, 의료진용 요약, RAG 육아 상담. 학부 연구생.
+나이별 문진, 답변별 LLM 안내, 의료진용 요약, RAG 육아 상담. 학부 연구생. 안내 정확도를 병원 기준 80건으로 평가.
 
 ### [쓰레기 분류·재활용 가이드 앱](waste-classification-app/)
 `Python` `PyTorch` `ChromaDB` · 2025.03–06  
