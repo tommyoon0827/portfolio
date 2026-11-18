@@ -19,6 +19,10 @@ AI 엔지니어를 목표로 하고 있습니다.
 `Nuxt 4` `TypeScript` `Prisma` `MariaDB` `ClamAV` · 2026.08–09  
 모델 배포 플랫폼에 수집·자동 검사·검수·릴리스 추가. YARA 규칙 작동률 0.2% → 93.9%.
 
+### [산업제어 장비 SBOM·HBOM 수집·관제 플랫폼](ics-sbom-platform/)
+`Go` `Nuxt` `TypeScript` `OpenSearch` `MariaDB` · 2026.09– (진행 중)  
+syslog 수집기부터 CycloneDX BOM 검증, 새 부품 탐지, 관제 화면까지. 병합 MR 53건.
+
 ### [CCTV 걷기·서기 판정](walk-stand-classification/)
 `YOLO` `Python` · 2026.07  
 전용 모델 제거 후 이동량 판정. 균형 정확도 75.5%, 추가 연산 0.
