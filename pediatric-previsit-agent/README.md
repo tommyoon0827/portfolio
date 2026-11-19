@@ -46,7 +46,7 @@ flowchart LR
 
 **PDF 리포트.** 아이 정보와 답변, 요약을 보호자와 의료진이 내려받을 수 있는 PDF로 만듭니다.
 
-<!-- ![PDF 리포트](docs/pdf-report.png) -->
+![PDF 리포트](docs/pdf-report.png)
 
 ## 평가
 
