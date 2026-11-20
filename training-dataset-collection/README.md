@@ -1,6 +1,6 @@
 # 학습 데이터 수집 기능
 
-`Nuxt 4` `TypeScript` `Prisma` `MariaDB` `ClamAV` `YARA` · 2026.08–09 · 팀 플랫폼에 기능 추가
+`Nuxt 4` `TypeScript` `Prisma` `MariaDB` `ClamAV` `YARA` · 2026.08~09 · 팀 플랫폼에 기능 추가
 
 ![학습셋 목록](docs/screenshots/dataset-list.png)
 

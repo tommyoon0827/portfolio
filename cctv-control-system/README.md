@@ -1,6 +1,6 @@
 # CCTV 관제 시스템 재작성
 
-`Vue 3` `TypeScript` `Go` `PostgreSQL` `MediaMTX` · 2026.07–08 · 1인 개발
+`Vue 3` `TypeScript` `Go` `PostgreSQL` `MediaMTX` · 2026.07~08 · 1인 개발
 
 ![통합 대시보드](docs/screenshots/dashboard.png)
 
